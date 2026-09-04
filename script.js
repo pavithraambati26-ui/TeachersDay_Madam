@@ -343,7 +343,7 @@ document.addEventListener("DOMContentLoaded", function () {
         if (status) {
 
             status.innerText =
-                "⚠️ Audio couldn't be loaded. Please check audio/song.mp3";
+                "⚠️ Audio couldn't be loaded. Please check audio/song.mpeg";
 
             status.style.color = "#a65b5b";
 
